@@ -1,0 +1,19 @@
+{
+  "name": "roman",
+  "version": "0.0.1-a",
+  "description": "ROMAN is a medical app created to make the lives of both patients and doctors easier by creating records of their operations, medications, activities, and nutrition.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemosabe73/roman.git"
+  },
+  "author": "raji von arx",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kemosabe73/roman/issues"
+  },
+  "homepage": "https://github.com/kemosabe73/roman#readme"
+}
