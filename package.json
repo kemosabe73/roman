@@ -4,12 +4,18 @@
   "description": "ROMAN is a medical app created to make the lives of both patients and doctors easier by creating records of their operations, medications, activities, and nutrition.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "test-kitten": "mocha -R nyan test.js"
+    "test": "mocha test.js",
+    "test-kitten": "mocha -R nyan test.js",
+    "watch": "gulp watch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kemosabe73/roman.git"
+  },
+  "devDependencies": {
+    "mocha": "3.5.3",
+    "gulp": "3.9.1",
+    "gulp-mocha": "4.3.1"
   },
   "author": "raji von arx",
   "license": "GPL-3.0",
