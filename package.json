@@ -4,7 +4,8 @@
   "description": "ROMAN is a medical app created to make the lives of both patients and doctors easier by creating records of their operations, medications, activities, and nutrition.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-kitten": "mocha -R nyan test.js"
   },
   "repository": {
     "type": "git",
