@@ -1,7 +1,7 @@
 {
   "name": "roman",
-  "version": "0.0.1-a",
-  "description": "ROMAN is a medical app created to make the lives of both patients and doctors easier by creating records of their operations, medications, activities, and nutrition.",
+  "version": "0.0.0-a",
+  "description": "Records of Operations, Medications, Activities, & Nutrition",
   "main": "index.html",
   "scripts": {
     "test": "mocha test.js",
